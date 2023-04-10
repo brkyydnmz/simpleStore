@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "title": "iPhone 14 Pro Max",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-spaceblack?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841897",
+    "price": "₺45.599,00",
+    "inStock": true
+  },
+  {
+    "id": 1,
+    "title": "Apple Watch Series 8",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKU83_VW_34FR+watch-41-alum-midnight-nc-8s_VW_34FR_WF_CO_GEO_TR?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171038000%2C1661971866857",
+    "price": "₺9.299,00",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Apple AirPods Series 2",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQD83?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1660803972361",
+    "price": "₺5.399,00",
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "title": "Apple MacBook Air",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-config-20220606?wid=820&hei=498&fmt=jpeg&qlt=90&.v=1654122880566",
+    "price": "₺29.999,00",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "title": "Apple MacBook Pro 14-inch",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673229",
+    "price": "₺49.999,00",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "title": "Apple MacBook Pro 16-inch",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
+    "price": "₺62.499,00",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "title": "iPad Air",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654903003209",
+    "price": "₺14.999,00",
+    "inStock": false
+  },
+  {
+    "id": 7,
+    "title": "iPad Pro 11-inch",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594751230",
+    "price": "₺20,499,00",
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "title": "iPad Pro 12-inch",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595007854",
+    "price": "₺28.499,00",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "title": "iMac 24-inch",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-green-selection-hero-202104?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1617492405000",
+    "price": "₺31.999,00",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "title": "Mac Pro",
+    "imgURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-pro-hero-cto?wid=554&hei=444&fmt=jpeg&qlt=90&.v=1572646185753",
+    "price": "₺134.999,00",
+    "inStock": true
+  }
+]
